@@ -1,4 +1,4 @@
-name: 'Hello World'
+name: 'Hello World - can be used in repos workflows using ./.github/actions/helloworld'
 description: 'Greet someone'
 inputs:
   who-to-greet:  # id of input
